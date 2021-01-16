@@ -2,9 +2,9 @@
 
 ----   Hotel Booking Application Exercise   ----
 
-- Front - end: Angular 11
-- Back - end: .NET Core
-- Database: SQL Server
+Front - end: Angular 11 <br />
+Back - end: .NET Core <br />
+Database: SQL Server
 
 Main Features:
 
